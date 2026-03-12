@@ -1,7 +1,7 @@
 # Sabão Sustentável – Landing Page
 ## Preview
 
-![Preview do site](preview.png.png)
+![Preview do site](imagens/preview.png.png)
 
 Projeto de uma **landing page simples e responsiva** para divulgação de um produto sustentável artesanal.
 
